@@ -40,7 +40,7 @@ The following **bonus** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] [MVP](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf) - An architecture pattern design
+* [x] [MVP](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf) - An architecture pattern design
 
 ## Video Walkthrough
 
